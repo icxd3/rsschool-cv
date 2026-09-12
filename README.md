@@ -1,3 +1,3 @@
-# rsschool-cv
+# rsschool-cv-html
 
-- CV (Markdown): https://icxd3.github.io/rsschool-cv/cv
+- CV (web page): https://icxd3.github.io/rsschool-cv/
