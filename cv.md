@@ -5,7 +5,8 @@
 - Telegram: [@iCxd3](https://t.me/iCxd3)
 
 ## About
-Junior front-end developer
+Junior front-end developer. Studying JavaScript and React at RS School
+(Fullstack 2026 Q3) and Synergy University.
 
 ## Skills
 - JavaScript, HTML5, CSS3, Markdown
