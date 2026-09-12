@@ -1,4 +1,5 @@
-# Hello, my name is El'ham
+# Hello👋 
+# My name is El'ham
 
 ## Contacts
 - GitHub: [icxd3](https://github.com/icxd3)
